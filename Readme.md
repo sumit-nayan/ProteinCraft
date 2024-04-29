@@ -18,10 +18,7 @@ This Python script generates protein data based on random phi and psi angles for
 You can install the required libraries using `pip` with the following command:
 
 ```bash
-pip install tkinter
-pip install subprocess
-pip install zipfile
-pip install random
+pip install tk
 ```
 
 ## Usage
