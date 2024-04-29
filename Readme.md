@@ -37,21 +37,25 @@ pip install random
     ```bash
     cd ProteinCraft
     ```
+3. **Make Ribosome excutable**
 
-3. **Run the script:**
+    ```bash
+    chmod +x ribosome
+    ```
+4. **Run the script:**
 
     ```bash
     python3 main.py
     ```
 
-4. **Enter the desired parameters in the GUI:**
+5. **Enter the desired parameters in the GUI:**
    - Number of sequences
    - Amino acids to exclude
    - Number of models to generate
 
-5. **Click the "Generate" button to initiate the data generation process.**
+6. **Click the "Generate" button to initiate the data generation process.**
 
-6. **Once the generation is complete, click the "Open Folder" button to view the generated files.**
+7. **Once the generation is complete, click the "Open Folder" button to view the generated files.**
 ## Usage Guide
 
 After running `main.py`, a GUI will appear as shown below:
