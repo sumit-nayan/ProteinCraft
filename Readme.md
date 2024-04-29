@@ -7,11 +7,6 @@ This Python script generates protein data based on random phi and psi angles for
 - **Python Environment**: Ensure Python 3 is installed on your system.
 - **Dependencies**: The following Python libraries are required:
   - `tkinter`
-  - `subprocess`
-  - `os`
-  - `zipfile`
-  - `random`
-  - `threading`
 
 ## Installation
 
