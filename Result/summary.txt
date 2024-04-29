@@ -1,0 +1,4 @@
+File Name: Result/protein1.zip
+Number of Protein Excluded: 4
+Number of Files: 1
+Number of Models: 1
