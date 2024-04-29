@@ -76,8 +76,6 @@ Remember the name of the ZIP file generated in the current iteration. Click on "
 ## Made by
 
 - Sumit Nayan (210106077)
-- Anil Siyag (210106012)
-- Umang Udbhav (21010679)
 
 ## License
 
