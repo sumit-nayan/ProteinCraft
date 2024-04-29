@@ -23,15 +23,35 @@ pip install subprocess
 pip install zipfile
 pip install random
 ```
+
 ## Usage
 
-1. Run the script `main.py`.
-2. Enter the desired parameters in the GUI:
+1. **Clone the repository from GitHub:**
+
+    ```bash
+    git clone https://github.com/sumit-nayan/ProteinCraft.git
+    ```
+
+2. **Move into the project directory:**
+
+    ```bash
+    cd ProteinCraft
+    ```
+
+3. **Run the script:**
+
+    ```bash
+    python3 main.py
+    ```
+
+4. **Enter the desired parameters in the GUI:**
    - Number of sequences
    - Amino acids to exclude
    - Number of models to generate
-3. Click the "Generate" button to initiate the data generation process.
-4. Once the generation is complete, click the "Open Folder" button to view the generated files.
+
+5. **Click the "Generate" button to initiate the data generation process.**
+
+6. **Once the generation is complete, click the "Open Folder" button to view the generated files.**
 
 ## Functionality
 
